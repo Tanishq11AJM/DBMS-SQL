@@ -1,4 +1,4 @@
-#Practical 2 20th jan 2026
+#Practical 2 20/1/2026
 TABLE 1
 CREATE TABLE UNIVERSITY (
     university_id INT PRIMARY KEY,
